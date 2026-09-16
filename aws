@@ -1,2 +1,3 @@
-this is new concept and learning branches concept
-and it is global information tracker
+a = 85
+b = 15
+c = a+b
